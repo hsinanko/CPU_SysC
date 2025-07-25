@@ -6,7 +6,7 @@
 #include "sysc/datatypes/bit/sc_lv.h"
 #include "sysc/kernel/sc_module.h"
 #include <systemc.h>
-#include "config.H"
+#include "../config.H"
 
 SC_MODULE(RegisterFile){
 

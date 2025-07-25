@@ -1,6 +1,6 @@
 #include <systemc.h>
 #include "registerfile.H"
-#include "config.H"
+#include "../config.H"
 
 SC_MODULE(testbench){
 
